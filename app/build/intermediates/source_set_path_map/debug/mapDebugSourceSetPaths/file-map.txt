@@ -1,0 +1,46 @@
+com.example.messageclient.app-lifecycle-viewmodel-2.6.1-0 C:\Users\Rodr1ck\.gradle\caches\transforms-4\045a32b3ef2dfce82967801a7f3464a0\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.messageclient.app-foundation-layout-release-1 C:\Users\Rodr1ck\.gradle\caches\transforms-4\046ac6acd2e0090f9e2b647cc2a90371\transformed\foundation-layout-release\res
+com.example.messageclient.app-core-1.10.1-2 C:\Users\Rodr1ck\.gradle\caches\transforms-4\06cffb8eb0ec8e47b70a65cde8e3ddae\transformed\core-1.10.1\res
+com.example.messageclient.app-ui-geometry-release-3 C:\Users\Rodr1ck\.gradle\caches\transforms-4\11e96a16cefeac978944fd2f9229ab61\transformed\ui-geometry-release\res
+com.example.messageclient.app-activity-compose-1.8.0-4 C:\Users\Rodr1ck\.gradle\caches\transforms-4\128cb0a640384d3f7aed16c329d89941\transformed\activity-compose-1.8.0\res
+com.example.messageclient.app-ui-graphics-release-5 C:\Users\Rodr1ck\.gradle\caches\transforms-4\28e743f78410370ba9af2cbfa99fb26e\transformed\ui-graphics-release\res
+com.example.messageclient.app-lifecycle-runtime-2.6.1-6 C:\Users\Rodr1ck\.gradle\caches\transforms-4\2a701e8e43d1ae1c74418121f6c48613\transformed\lifecycle-runtime-2.6.1\res
+com.example.messageclient.app-emoji2-1.4.0-7 C:\Users\Rodr1ck\.gradle\caches\transforms-4\2eb883926ce7e7e8ee3c8de2fa5a0292\transformed\emoji2-1.4.0\res
+com.example.messageclient.app-core-ktx-1.10.1-8 C:\Users\Rodr1ck\.gradle\caches\transforms-4\2f1ad391943624e8a56303bdb1fd0880\transformed\core-ktx-1.10.1\res
+com.example.messageclient.app-lifecycle-process-2.6.1-9 C:\Users\Rodr1ck\.gradle\caches\transforms-4\314264467b7e917db58c8a311954a404\transformed\lifecycle-process-2.6.1\res
+com.example.messageclient.app-foundation-release-10 C:\Users\Rodr1ck\.gradle\caches\transforms-4\3639aab74bf1149fe56929c2d1ae286e\transformed\foundation-release\res
+com.example.messageclient.app-lifecycle-runtime-ktx-2.6.1-11 C:\Users\Rodr1ck\.gradle\caches\transforms-4\3eb6bb9cf0e4616a05dba3ceadeb7cca\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.example.messageclient.app-material-ripple-release-12 C:\Users\Rodr1ck\.gradle\caches\transforms-4\41351506ec6fd164e5f42ddd1adb0578\transformed\material-ripple-release\res
+com.example.messageclient.app-runtime-saveable-release-13 C:\Users\Rodr1ck\.gradle\caches\transforms-4\42d26a01fa4fef2baf22dab1a2f04378\transformed\runtime-saveable-release\res
+com.example.messageclient.app-ui-tooling-release-14 C:\Users\Rodr1ck\.gradle\caches\transforms-4\4895d72594bbfc164a5060e3f30a4b86\transformed\ui-tooling-release\res
+com.example.messageclient.app-ui-tooling-preview-release-15 C:\Users\Rodr1ck\.gradle\caches\transforms-4\519882db2e8ecace0003399ffb8048a2\transformed\ui-tooling-preview-release\res
+com.example.messageclient.app-lifecycle-viewmodel-savedstate-2.6.1-16 C:\Users\Rodr1ck\.gradle\caches\transforms-4\528462ece9697798b6d0ea442b82c62b\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.messageclient.app-material-icons-core-release-17 C:\Users\Rodr1ck\.gradle\caches\transforms-4\547100d9df7640b22aaeed6e96411c20\transformed\material-icons-core-release\res
+com.example.messageclient.app-animation-core-release-18 C:\Users\Rodr1ck\.gradle\caches\transforms-4\5f9e55e83eeca49a5e70f77582799ce3\transformed\animation-core-release\res
+com.example.messageclient.app-animation-release-19 C:\Users\Rodr1ck\.gradle\caches\transforms-4\60eb69958f12ca18a78d85bb093c85db\transformed\animation-release\res
+com.example.messageclient.app-ui-unit-release-20 C:\Users\Rodr1ck\.gradle\caches\transforms-4\634d7d9606c48c67529b03eb29789c3b\transformed\ui-unit-release\res
+com.example.messageclient.app-activity-1.8.0-21 C:\Users\Rodr1ck\.gradle\caches\transforms-4\63d1bcde9714eba7c0ecd606c8763286\transformed\activity-1.8.0\res
+com.example.messageclient.app-customview-poolingcontainer-1.0.0-22 C:\Users\Rodr1ck\.gradle\caches\transforms-4\6ef966935c4762c3a6f3539be426fb8b\transformed\customview-poolingcontainer-1.0.0\res
+com.example.messageclient.app-ui-release-23 C:\Users\Rodr1ck\.gradle\caches\transforms-4\76ed13b856ad1e12f7945249bd0f422e\transformed\ui-release\res
+com.example.messageclient.app-annotation-experimental-1.3.0-24 C:\Users\Rodr1ck\.gradle\caches\transforms-4\79118cff92582eb07776575fdc3eb7fe\transformed\annotation-experimental-1.3.0\res
+com.example.messageclient.app-activity-ktx-1.8.0-25 C:\Users\Rodr1ck\.gradle\caches\transforms-4\7c9f7fe8dfdd53c42e3d044c1143d3ba\transformed\activity-ktx-1.8.0\res
+com.example.messageclient.app-ui-text-release-26 C:\Users\Rodr1ck\.gradle\caches\transforms-4\8db1eee75b364c1fd8997a18fe02085d\transformed\ui-text-release\res
+com.example.messageclient.app-material3-1.1.1-27 C:\Users\Rodr1ck\.gradle\caches\transforms-4\90deeea824741d15961a5b7f2a2191ae\transformed\material3-1.1.1\res
+com.example.messageclient.app-lifecycle-viewmodel-ktx-2.6.1-28 C:\Users\Rodr1ck\.gradle\caches\transforms-4\9243701fe7f19340703ec6357afb8cc2\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.example.messageclient.app-profileinstaller-1.3.0-29 C:\Users\Rodr1ck\.gradle\caches\transforms-4\9519e4602ebf3b716a85c9ea29372b64\transformed\profileinstaller-1.3.0\res
+com.example.messageclient.app-material-release-30 C:\Users\Rodr1ck\.gradle\caches\transforms-4\9e72310e262aaf13165307a1aa4a6f2a\transformed\material-release\res
+com.example.messageclient.app-runtime-release-31 C:\Users\Rodr1ck\.gradle\caches\transforms-4\ab61c61f4d711756dfa2c0cd84001dd4\transformed\runtime-release\res
+com.example.messageclient.app-ui-test-manifest-1.5.0-32 C:\Users\Rodr1ck\.gradle\caches\transforms-4\b6b9aef08dc7f42ec4bd7d3c2200de46\transformed\ui-test-manifest-1.5.0\res
+com.example.messageclient.app-ui-util-release-33 C:\Users\Rodr1ck\.gradle\caches\transforms-4\b9c71e4a1e4bfaa1dba4dce954da1638\transformed\ui-util-release\res
+com.example.messageclient.app-startup-runtime-1.1.1-34 C:\Users\Rodr1ck\.gradle\caches\transforms-4\c9d7bfc58b0df6af804f7a0344ad25d5\transformed\startup-runtime-1.1.1\res
+com.example.messageclient.app-ui-tooling-data-release-35 C:\Users\Rodr1ck\.gradle\caches\transforms-4\d6738e24e8c40ecff4225b7b39b77fab\transformed\ui-tooling-data-release\res
+com.example.messageclient.app-lifecycle-livedata-core-2.6.1-36 C:\Users\Rodr1ck\.gradle\caches\transforms-4\e8b76d08bcc0e77b83a363510cba5d87\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.messageclient.app-savedstate-ktx-1.2.1-37 C:\Users\Rodr1ck\.gradle\caches\transforms-4\f4361eefa8426552f24af28e86b273a8\transformed\savedstate-ktx-1.2.1\res
+com.example.messageclient.app-core-runtime-2.2.0-38 C:\Users\Rodr1ck\.gradle\caches\transforms-4\f603b4653d9bc1f735adc3516c28e978\transformed\core-runtime-2.2.0\res
+com.example.messageclient.app-savedstate-1.2.1-39 C:\Users\Rodr1ck\.gradle\caches\transforms-4\f80fc4df84c02da8b5d73c6671d929a7\transformed\savedstate-1.2.1\res
+com.example.messageclient.app-resValues-40 D:\Recursos y proyectos\Aplicaciones\MessageClient\app\build\generated\res\resValues\debug
+com.example.messageclient.app-packageDebugResources-41 D:\Recursos y proyectos\Aplicaciones\MessageClient\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.messageclient.app-packageDebugResources-42 D:\Recursos y proyectos\Aplicaciones\MessageClient\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.messageclient.app-debug-43 D:\Recursos y proyectos\Aplicaciones\MessageClient\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.messageclient.app-debug-44 D:\Recursos y proyectos\Aplicaciones\MessageClient\app\src\debug\res
+com.example.messageclient.app-main-45 D:\Recursos y proyectos\Aplicaciones\MessageClient\app\src\main\res

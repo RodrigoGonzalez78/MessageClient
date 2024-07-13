@@ -1,0 +1,35 @@
+com.example.messageclient.test.app-ui-test-release-0 C:\Users\Rodr1ck\.gradle\caches\transforms-4\0d76f08002aceaeb959ba4027c8495c5\transformed\ui-test-release\res
+com.example.messageclient.test.app-customview-poolingcontainer-1.0.0-1 C:\Users\Rodr1ck\.gradle\caches\transforms-4\0fe0cbee98e8ba82836fb648e169d1be\transformed\customview-poolingcontainer-1.0.0\res
+com.example.messageclient.test.app-ui-text-release-2 C:\Users\Rodr1ck\.gradle\caches\transforms-4\17137603e7879a44a7dbb1eed5e85f7e\transformed\ui-text-release\res
+com.example.messageclient.test.app-ui-unit-release-3 C:\Users\Rodr1ck\.gradle\caches\transforms-4\1daea8aaca8637e28b29d6b89b980039\transformed\ui-unit-release\res
+com.example.messageclient.test.app-lifecycle-viewmodel-2.6.1-4 C:\Users\Rodr1ck\.gradle\caches\transforms-4\20d92c2262ed82603787b239ed8f8274\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.messageclient.test.app-core-runtime-2.2.0-5 C:\Users\Rodr1ck\.gradle\caches\transforms-4\24ff8919c9eb5afcdc2b6c8cb14a0068\transformed\core-runtime-2.2.0\res
+com.example.messageclient.test.app-core-1.5.0-6 C:\Users\Rodr1ck\.gradle\caches\transforms-4\2552bd5e9c378d2652d33ec95282006f\transformed\core-1.5.0\res
+com.example.messageclient.test.app-lifecycle-runtime-2.6.1-7 C:\Users\Rodr1ck\.gradle\caches\transforms-4\26024fdc34d6ed2ac6c81e82fdc9b89e\transformed\lifecycle-runtime-2.6.1\res
+com.example.messageclient.test.app-core-ktx-1.12.0-8 C:\Users\Rodr1ck\.gradle\caches\transforms-4\2be9e6b4654dae513e0eae192157f5f2\transformed\core-ktx-1.12.0\res
+com.example.messageclient.test.app-activity-ktx-1.8.0-9 C:\Users\Rodr1ck\.gradle\caches\transforms-4\2cc2247991cb33dad847a5830a652f9f\transformed\activity-ktx-1.8.0\res
+com.example.messageclient.test.app-emoji2-1.3.0-10 C:\Users\Rodr1ck\.gradle\caches\transforms-4\310b1b669cd213bc643a8589a205fdbd\transformed\emoji2-1.3.0\res
+com.example.messageclient.test.app-ui-release-11 C:\Users\Rodr1ck\.gradle\caches\transforms-4\346a117c69886407476eec6b2b7d0219\transformed\ui-release\res
+com.example.messageclient.test.app-annotation-experimental-1.4.0-12 C:\Users\Rodr1ck\.gradle\caches\transforms-4\3599414eb6df4414b6f76f2b3982ce5d\transformed\annotation-experimental-1.4.0\res
+com.example.messageclient.test.app-runtime-saveable-release-13 C:\Users\Rodr1ck\.gradle\caches\transforms-4\37afc7f5a463a6a56b66a69ce87bd79a\transformed\runtime-saveable-release\res
+com.example.messageclient.test.app-lifecycle-viewmodel-ktx-2.6.1-14 C:\Users\Rodr1ck\.gradle\caches\transforms-4\406a3e883c8692a3770fcc246bdaf027\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.example.messageclient.test.app-ui-graphics-release-15 C:\Users\Rodr1ck\.gradle\caches\transforms-4\51dfa3659afe5bb820de5f494abaa2e7\transformed\ui-graphics-release\res
+com.example.messageclient.test.app-startup-runtime-1.1.1-16 C:\Users\Rodr1ck\.gradle\caches\transforms-4\56c3bccbec3bcd11ddaf20399852e36d\transformed\startup-runtime-1.1.1\res
+com.example.messageclient.test.app-ui-util-release-17 C:\Users\Rodr1ck\.gradle\caches\transforms-4\6d393bb2af43b36761846fd4cc341c5a\transformed\ui-util-release\res
+com.example.messageclient.test.app-savedstate-ktx-1.2.1-18 C:\Users\Rodr1ck\.gradle\caches\transforms-4\7aac0e8cce85857a7701834fc7174a56\transformed\savedstate-ktx-1.2.1\res
+com.example.messageclient.test.app-activity-compose-1.8.0-19 C:\Users\Rodr1ck\.gradle\caches\transforms-4\90bcf625c6ae2d3166793747d887d939\transformed\activity-compose-1.8.0\res
+com.example.messageclient.test.app-lifecycle-viewmodel-savedstate-2.6.1-20 C:\Users\Rodr1ck\.gradle\caches\transforms-4\a23c0d2a5bf03ad8ef2c6af0ac6a3d35\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.messageclient.test.app-savedstate-1.2.1-21 C:\Users\Rodr1ck\.gradle\caches\transforms-4\afbb3787786bec875f8e6c33305d5534\transformed\savedstate-1.2.1\res
+com.example.messageclient.test.app-activity-1.8.0-22 C:\Users\Rodr1ck\.gradle\caches\transforms-4\b47b7c8abdebd318d903f12f8f1e1193\transformed\activity-1.8.0\res
+com.example.messageclient.test.app-profileinstaller-1.3.0-23 C:\Users\Rodr1ck\.gradle\caches\transforms-4\b5324f9e9bb029393399ea0e32c9bf7b\transformed\profileinstaller-1.3.0\res
+com.example.messageclient.test.app-lifecycle-runtime-ktx-2.6.1-24 C:\Users\Rodr1ck\.gradle\caches\transforms-4\c18974c057d0f18c44a7ae56641aa958\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.example.messageclient.test.app-core-1.12.0-25 C:\Users\Rodr1ck\.gradle\caches\transforms-4\c8ba574290b41973d0cc5a2d22803e02\transformed\core-1.12.0\res
+com.example.messageclient.test.app-runtime-release-26 C:\Users\Rodr1ck\.gradle\caches\transforms-4\e42e504cd6bc12b35c42f80e507a6026\transformed\runtime-release\res
+com.example.messageclient.test.app-lifecycle-livedata-core-2.6.1-27 C:\Users\Rodr1ck\.gradle\caches\transforms-4\e46c5116c04d1686b63a36487ae49b6c\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.messageclient.test.app-lifecycle-process-2.6.1-28 C:\Users\Rodr1ck\.gradle\caches\transforms-4\eb499fc42a1097ca7fc8d0b5b7e89e8f\transformed\lifecycle-process-2.6.1\res
+com.example.messageclient.test.app-ui-test-junit4-release-29 C:\Users\Rodr1ck\.gradle\caches\transforms-4\fd290672fbb798fbdd36b0462d138711\transformed\ui-test-junit4-release\res
+com.example.messageclient.test.app-ui-geometry-release-30 C:\Users\Rodr1ck\.gradle\caches\transforms-4\ff74a737dbefb3223dbcc825b32b520a\transformed\ui-geometry-release\res
+com.example.messageclient.test.app-androidTest-31 D:\Recursos y proyectos\Aplicaciones\MessageClient\app\build\generated\res\resValues\androidTest\debug
+com.example.messageclient.test.app-mergeDebugAndroidTestResources-32 D:\Recursos y proyectos\Aplicaciones\MessageClient\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.messageclient.test.app-mergeDebugAndroidTestResources-33 D:\Recursos y proyectos\Aplicaciones\MessageClient\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.messageclient.test.app-debugAndroidTest-34 D:\Recursos y proyectos\Aplicaciones\MessageClient\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
